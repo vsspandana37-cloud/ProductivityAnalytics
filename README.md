@@ -17,3 +17,4 @@ HTML5 Blob Compilers: Wraps memory profiles inside a local browser file builder 
 
 OUTPUT: 
 
+<img width="1919" height="897" alt="Image" src="https://github.com/user-attachments/assets/b8c81a0d-f604-4da3-8562-96607d11ae73" />
